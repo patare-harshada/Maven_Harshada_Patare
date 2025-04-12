@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3d0b3f0-c6fb-4bd0-a71f-d7318931f6c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/testng/bacicoftestng/PriorityExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testng/bacicoftestng/PriorityExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2vAdutf1TSSBzLj2c7imTcshZYs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SeleniumExample.executor": "Run",
+    "Application.TakeAScreenshotExample2.executor": "Run",
+    "Maven.Maven_Harshada_Patare [clean].executor": "Run",
+    "Maven.Maven_Harshada_Patare [compile].executor": "Run",
+    "Maven.Maven_Harshada_Patare [package].executor": "Run",
+    "Maven.Maven_Harshada_Patare [validate].executor": "Run",
+    "Maven.Maven_Harshada_Patare [verify].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AnnotationExample (1).executor": "Run",
+    "TestNG.AnnotationExample (2).executor": "Run",
+    "TestNG.AnnotationExample.executor": "Run",
+    "TestNG.C:/Users/patar/IdeaProjects/Maven_Harshada_Patare/test-output/testng-failed.xml.executor": "Run",
+    "TestNG.C:/Users/patar/IdeaProjects/Maven_Harshada_Patare/testng.xml.executor": "Run",
+    "TestNG.DataProviderWithExcel.executor": "Run",
+    "TestNG.DataProviderWithExcel1.executor": "Run",
+    "TestNG.Dataproviderwithexcel1.executor": "Run",
+    "TestNG.DependsOnGroupExample.executor": "Run",
+    "TestNG.DependsOnGroupExample.verifyLogin.executor": "Run",
+    "TestNG.DependsOnMethod.executor": "Run",
+    "TestNG.HardAssertExample.executor": "Run",
+    "TestNG.HardAssertExample.verifyscaceDemoApplication.executor": "Run",
+    "TestNG.NeedOfParameterization.executor": "Run",
+    "TestNG.NeedOfParameterization.searchDataOnGoogle.executor": "Run",
+    "TestNG.ParallelExecution.executor": "Run",
+    "TestNG.ParameterizationExample.executor": "Run",
+    "TestNG.PriorityExample (1).executor": "Run",
+    "TestNG.PriorityExample.TestCaseH.executor": "Run",
+    "TestNG.PriorityExample.executor": "Run",
+    "TestNG.SimpleDataProvider (1).executor": "Run",
+    "TestNG.SimpleDataProvider.executor": "Run",
+    "TestNG.SimpleDataProvider.searchDataOnGoogle.executor": "Run",
+    "TestNG.SoftAssertExample.executor": "Run",
+    "TestNG.TestExcelDataProvider.executor": "Run",
+    "TestNG.TestNGAttribute.attributeExample.executor": "Run",
+    "TestNG.TestNGAttribute.executor": "Run",
+    "TestNG.TestNGFirstExample.executor": "Run",
+    "TestNG.TestNGFirstExample.verifCapgemini.executor": "Run",
+    "TestNG.TestNGFirstExample.verifEdsoServices.executor": "Run",
+    "TestNG.TestNGFirstExample.verifYouTube.executor": "Run",
+    "TestNG.TestNGFirstExample.veriftEdsoServices.executor": "Run",
+    "TestNG.TestNeedOfParameterization.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/patar/IdeaProjects/Maven_Harshada_Patare/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.PriorityExampleTest">
+    <configuration name="DependsOnMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Harshada_Patare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.bacicoftestng.PriorityExample" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng.bacicoftestng" />
+      <option name="MAIN_CLASS_NAME" value="testng.bacicoftestng.DependsOnMethod" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HardAssertExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Harshada_Patare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.assertion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng.assertion" />
+      <option name="MAIN_CLASS_NAME" value="testng.assertion.HardAssertExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Harshada_Patare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.bacicoftestng.PriorityExample" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng.bacicoftestng" />
+      <option name="MAIN_CLASS_NAME" value="testng.bacicoftestng.PriorityExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExcelDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Harshada_Patare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.parameterization.parameterized.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng.parameterization.parameterized" />
+      <option name="MAIN_CLASS_NAME" value="testng.parameterization.parameterized.TestExcelDataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNeedOfParameterization" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Harshada_Patare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.parameterization.parameterized.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng.parameterization.parameterized" />
+      <option name="MAIN_CLASS_NAME" value="testng.parameterization.parameterized.TestNeedOfParameterization" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.PriorityExampleTest" />
+      <item itemvalue="TestNG.DependsOnMethod" />
+      <item itemvalue="TestNG.HardAssertExample" />
+      <item itemvalue="TestNG.TestExcelDataProvider" />
+      <item itemvalue="TestNG.TestNeedOfParameterization" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PriorityExampleTest" />
+        <item itemvalue="TestNG.TestExcelDataProvider" />
+        <item itemvalue="TestNG.DependsOnMethod" />
+        <item itemvalue="TestNG.TestNeedOfParameterization" />
+        <item itemvalue="TestNG.HardAssertExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d0b3f0-c6fb-4bd0-a71f-d7318931f6c7" name="Changes" comment="" />
+      <created>1743592075917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743592075917</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

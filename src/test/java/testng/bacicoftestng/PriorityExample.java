@@ -9,7 +9,7 @@ public class PriorityExample {
     @Test(priority = 1,enabled = true, retryAnalyzer = FailedExecution.class)
     public void TestCaseZ()
     {
-        System.out.println("Test Case Z");
+
     }
     @Test(priority = -'a',groups = "smoke" , retryAnalyzer = FailedExecution.class)
     public void TestCaseH()
