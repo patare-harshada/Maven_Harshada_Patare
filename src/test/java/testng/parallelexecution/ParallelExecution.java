@@ -11,7 +11,7 @@ public class ParallelExecution {
         WebDriver driver=new ChromeDriver();
         driver.get("https://www.youtube.com/");
         driver.manage().window().maximize();
-        System.out.println("Hellow People");
+        driver.close();
     }
     @Test
     public void openTcs()
