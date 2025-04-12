@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <!--<groups>
+        <run>
+            <include name="smoke" />
+        </run>
+    </groups>-->
+    <parameter name="courceName" value="Selenium"></parameter>
+    <parameter name="cityName" value="Delhi"></parameter>
+    <parameter name="BrowserName" value="chrome"></parameter>
+    <listeners>
+        <listener class-name="testng.failtestrun.IAnnotation"></listener>
+    </listeners>
+
+    <test verbose="2" preserve-order="true" parallel="false" thread-count="2" name="C:/Users/patar/IdeaProjects/Maven_Harshada_Patare">
+        <classes>
+
+            <class name="testng.bacicoftestng.PriorityExample"/>
+
+
+
+        </classes>
+    </test>
+</suite>
